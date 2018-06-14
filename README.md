@@ -1,1 +1,1 @@
-# Deep-Deterministic-Policy-Gradients
+# deep-deterministic-policy-gradients
